@@ -1,2 +1,5 @@
 *.csv
 *.pdf
+dask-worker-space/
+__pycache__/
+.ipynb_checkpoints/
